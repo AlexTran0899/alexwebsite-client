@@ -49,8 +49,10 @@ table {
   height: 100vh;
 }
 
-.hero{
-  height: 650px;
+.hero {
+  min-height: 800px;
+  min-width: 1200px;
+  height: 100vh;
   width: 100vw;
   background-color: #E88D67;
 }
@@ -58,7 +60,6 @@ table {
 .hero-content{
   margin: 0 auto;
   display: flex;
-  width: 1200px;
   justify-content: space-between;
   padding: 100px 50px;
   gap: 20px;
