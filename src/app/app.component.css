@@ -37,7 +37,8 @@
   letter-spacing: 2px;
   font-family: "Quicksand", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 400;
+  font-weight: 600;
+  line-height: 40px;
 }
 
 .image-card {
