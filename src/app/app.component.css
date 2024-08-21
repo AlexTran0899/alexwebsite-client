@@ -69,7 +69,7 @@ table {
 @media (max-width: 768px) {
 	.hero {
 		min-width: 0px;
-		min-height: 1500px;
+		min-height: 1200px;
 	}
   .hero-content {		
     flex-direction: column;
