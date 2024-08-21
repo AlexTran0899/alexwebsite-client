@@ -47,7 +47,6 @@ table {
 
 .container {
 	height: 100%;
-	
 }
 
 .hero {
@@ -64,6 +63,8 @@ table {
   justify-content: space-between;
   padding: 100px 50px;
   gap: 20px;
+	padding-left: env(safe-area-inset-left);
+	padding-right: env(safe-area-inset-right);
 }
 
 /* Media Query for Mobile Devices */
