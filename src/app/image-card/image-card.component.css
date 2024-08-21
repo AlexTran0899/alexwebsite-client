@@ -22,7 +22,7 @@ h1 {
   gap: 25px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 500px) {
   .image-card {
     width: 320px;
     height: 384px;
